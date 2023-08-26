@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3>Contributions</h3>
 
-![Github contributions](https://github-profile-trophy.vercel.app/?username=Washington-eng&theme=transparent&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)
+![Github contributions](https://github-profile-trophy.vercel.app/?username=Washington-eng&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)
 <br>
 <br>
 <h3 align="left">GitHub Stats</h3>
